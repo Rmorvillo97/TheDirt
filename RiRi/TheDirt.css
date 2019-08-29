@@ -1,0 +1,119 @@
+body{
+	background: url(assets/images/IMG-3847.JPG);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+	font-family: lato;
+
+	color: #5c8a32;
+}
+
+
+
+html{
+	height: 100%;
+}
+
+
+#content{
+text-align: center;
+padding-top: 25%;
+text-shadow: 0px 4px 3px rgba(0,0,0,0.9),
+			 0px 8px 13px rgba(0,0,0,0.5),
+			 0px 18px 23px rgba(0,0,0,0.5);
+color: white;
+
+}
+
+h1{
+	font-weight: 700;
+	font-size: 5em;
+}
+
+hr{
+	width: 400px;
+	border-top: 1px solid #f8f8f8;
+	border-bottom: 1px solid rgba(0,0,0,0.2);
+}
+
+.jumbotron{
+      background: rgba(237,212,185,0.7);
+      color: #5c8a32;
+      
+}
+
+.BWVEntry{
+	background: white;
+	color: black;
+	padding: 15px;
+	border-radius: 15px;
+	overflow: hidden;
+	margin-top: 5%;
+
+}
+
+.BWVEntry h3{
+text-align: center;
+font-weight: bold;
+
+}
+    
+.flex {
+      display: flex;
+      flex-wrap: wrap;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+ 
+}
+
+.miniPic{
+	width: 500px;
+}
+
+.beerPic{
+	float: left;
+	width: 30%;
+	margin-right: 5%;
+	border: 2px solid black;
+	border-radius: 5px;
+}
+
+.DTDEntry{
+	background: white;
+	color: black;
+	padding: 15px;
+	border-radius: 15px;
+	overflow: hidden;
+	margin-top: 5%;
+}
+
+#DTDSloganHandWritten{
+	margin: 0px;
+}
+
+#DTDSlogan{
+	margin: 0px
+}
+
+#aboutMe{
+	background: rgba(237,212,185,0.9);
+
+}
+
+pre{
+	  background-color: rgba(237,212,185,0.0);
+      color: #5c8a32; 
+      border: 0px;
+      padding: 0px;
+      margin: 0px;
+      line-height: 0.006;
+      overflow-y:hidden; 
+}
+
+
+
